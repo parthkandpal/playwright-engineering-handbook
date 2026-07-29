@@ -331,7 +331,7 @@ Enterprise Quality Engineering Professional with 9 years of experience building 
 
 **Email**
 
-[parth.kandpal@gmail.com](mailto:parth.kandpal@gmail.com)
+[parthkandpal.qa@gmail.com](mailto:parthkandpal.qa@gmail.com)
 
 **GitHub**
 
