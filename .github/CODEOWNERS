@@ -1,0 +1,64 @@
+# --------------------------------------------------
+
+# CODEOWNERS
+
+#
+
+# This file defines the default code owners for the
+
+# Playwright Engineering Handbook repository.
+
+#
+
+# GitHub will automatically request reviews from the
+
+# listed owners when Pull Requests modify matching files.
+
+# --------------------------------------------------
+
+# Default owner for the entire repository
+
+* @parthkandpal
+
+# Documentation
+
+README.md @parthkandpal
+LICENSE @parthkandpal
+CONTRIBUTING.md @parthkandpal
+CODE_OF_CONDUCT.md @parthkandpal
+SECURITY.md @parthkandpal
+SUPPORT.md @parthkandpal
+CHANGELOG.md @parthkandpal
+
+# GitHub configuration
+
+.github/ @parthkandpal
+
+# Book chapters
+
+chapter-*/ @parthkandpal
+
+# Enterprise framework
+
+enterprise-framework/ @parthkandpal
+
+# Playwright MCP
+
+playwright-mcp/ @parthkandpal
+
+# CI/CD
+
+ci-cd/ @parthkandpal
+
+# Sample projects
+
+sample-projects/ @parthkandpal
+
+# Interview exercises
+
+interview-exercises/ @parthkandpal
+
+# Appendices and assets
+
+appendix/ @parthkandpal
+book-assets/ @parthkandpal
