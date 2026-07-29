@@ -142,7 +142,7 @@ If you have questions about the repository or the book, feel free to reach out.
 
 **Email**
 
-[parth.kandpal@gmail.com](mailto:parth.kandpal@gmail.com)
+[parthkandpal.qa@gmail.com](mailto:parthkandpal.qa@gmail.com)
 
 **GitHub**
 
