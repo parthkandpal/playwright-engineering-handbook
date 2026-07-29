@@ -97,7 +97,7 @@ If you experience or witness behavior that violates this Code of Conduct, please
 
 **Email**
 
-[parth.kandpal@gmail.com](mailto:parth.kandpal@gmail.com)
+[parthkandpal.qa@gmail.com](mailto:parthkandpal.qa@gmail.com)
 
 All reports will be reviewed promptly and handled with discretion.
 
